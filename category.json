@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "toyName": "Thanos",
+      "category": "Marvel",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZ1cjeh5tvrvNL1fK0JGy1m_irnvIJ2rS2A&usqp=CAU",
+      "rating": 4.5,
+      "price": 19.99
+    },
+    {
+      "id": 2,
+      "toyName": "Hulk",
+      "category": "Marvel",
+      "photo": "https://i.ebayimg.com/images/g/ftQAAOSwA45iV2h4/s-l500.jpg",
+      "rating": 4.8,
+      "price": 29.99
+    },
+    {
+      "id": 3,
+      "toyName": "Hashbro",
+      "category": "Star Light",
+      "photo": "https://www.hasbro.com/common/productimages/en_US/3CB7D53CB1AE4406B79115D04B1BC8AF/7A8F81BF7C2A439DA22B841A78EE0FBE.jpg",
+      "rating": 4.7,
+      "price": 89.99
+    },
+    {
+      "id": 4,
+      "toyName": "Mandalorian",
+      "category": "Vehicles",
+      "photo": "https://imaginationsoup.net/wp-content/uploads/2015/11/The-Child-plush-toy-715x763.jpg",
+      "rating": 4.3,
+      "price": 39.99
+    },
+    {
+      "id": 5,
+      "toyName": "Titan",
+      "category": "Transformers",
+      "photo": "https://bbts1.azureedge.net/images/p/full/2022/04/f166d7dd-635a-411f-adc0-293546a24962.jpg",
+      "rating": 4.6,
+      "price": 14.99
+    },
+    {
+      "id": 6,
+      "toyName": "MMP-03",
+      "category": "Transformers",
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/41Xg1FJxfKL.jpg",
+      "rating": 4.9,
+      "price": 49.99
+    }
+  ]
+  
